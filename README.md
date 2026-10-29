@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Performance and Grade Management System
 
 [![Java](https://img.shields.io/badge/Java-17%2B-blue.svg)](https://www.oracle.com/java/)
@@ -221,3 +222,6 @@ The resulting all-inclusive JAR is generated at:
 
 ## 9. License & Academic Attribution
 Developed for the university 5th Semester Java Project Examination. Academic institutions are free to use and extend this software under the MIT License.
+=======
+# Student-Performance-Grade-Management-System
+>>>>>>> c2be52e4cb4480acbdd895dc4bc33f45f18bcc29
